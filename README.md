@@ -8,7 +8,6 @@ To get started with this project, you'll need to clone the repository to your lo
 
 ``` copy
 git clone https://github.com/kai3pi/NapierNumberCalculator.git
-
 ```
 
 
