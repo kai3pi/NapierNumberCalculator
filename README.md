@@ -6,8 +6,7 @@ This repository contains a Python script, `cal_napier_number.py`, which calculat
 ## Installation
 
 Cloning this repository will create a `NapierNumberCalculator` folder in the current directory where you run the command.
-For example, if you clone in your home directory, the folder will be created in 
-`/Users/your_user_name/NapierNumberCalculator`.
+For example, if you clone in your home directory, the folder will be created in `/Users/your_user_name/NapierNumberCalculator`.
 
 If you want to change the save location of the folder, use the cd command to move to your desired directory before executing the clone command.
 
