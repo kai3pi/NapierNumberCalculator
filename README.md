@@ -4,6 +4,14 @@ This repository contains a Python script, `cal_napier_number.py`, which calculat
 
 
 ## Installation
+
+Cloning this repository will create a `NapierNumberCalculator` folder in the current directory where you run the command.
+For example, if you clone in your home directory, the folder will be created in 
+`/Users/your_user_name/NapierNumberCalculator`.
+
+If you want to change the save location of the folder, use the cd command to move to your desired directory before executing the clone command.
+
+
 To get started with this project, you'll need to clone the repository to your local machine. You can do this by running the following command in your terminal:
 
 ``` copy
@@ -13,16 +21,23 @@ git clone https://github.com/kai3pi/NapierNumberCalculator.git
 
 
 ## Usage
-__To run this script, Python must be installed on your system.__
+__To run this script, you must have Python 3.6 or higher installed on your system.__
 
+To verify Python installation, run `python3 --version` in your terminal.
+
+<br>
 
 Once you have cloned the repository, navigate to the cloned directory and run the script with Python by entering the following command.
 
-First, please move to the clone directory:
+<br>
 
-``` copy
-cd /NapierNumberCalculator
-```
+__Process__
+
+
+First, use the cd command to go to the clone directory.
+
+Next, execute the following command in the command line:
+
 
 Next, execute the following command in the command line:
 
