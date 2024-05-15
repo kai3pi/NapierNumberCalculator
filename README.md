@@ -37,9 +37,6 @@ First, use the cd command to go to the clone directory.
 
 Next, execute the following command in the command line:
 
-
-Next, execute the following command in the command line:
-
 ``` copy
 python3 cal_napier_number.py [digits]
 ```
